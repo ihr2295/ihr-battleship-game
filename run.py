@@ -89,7 +89,7 @@ class Player:
 
 def welcome_message():
     print("-----------------------------------")
-    print(" Welcome to ULTIMATE BATTLESHIPS!!")
+    print(" Welcome to IHR BATTLESHIPS GAME!!")
     print(" Board Size: 5. Number of ships: 4")
     print(" Top left corner is row: 0, col: 0")
     print("-----------------------------------")
